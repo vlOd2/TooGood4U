@@ -10,7 +10,7 @@ This repository contains NO SOURCE CODE and the client is available in obfuscate
 
 # ❓ Usage
 1. Download the latest jar
-2. Open it up with a [Java 17+ JVM (Java Virtual Machine)](https://adoptium.net/download/)
+2. Open it up with a [Java 17+ JVM (Java Virtual Machine)](https://adoptium.net/)
 3. Enjoy!
 
 # ⌨ Keybinds
