@@ -8,6 +8,18 @@ This repository contains NO SOURCE CODE and the client is available in obfuscate
 - This was done because in order to get ImGUI working, I had to make Minecraft use LWJGL 3, thanks to Lassebq again for their amazing LWJGL 3 wrapper (check bellow for more information)
 - Also to reduce headache to users, and prevent people from using the client on regular launchers (which WILL NOT WORK)
 
+# ❓ Usage
+1. Download the latest jar
+2. Open it up with a [Java 17+ JVM (Java Virtual Machine)](https://adoptium.net/download/)
+3. Enjoy!
+
+# ⌨ Keybinds
+- F - Flight
+- R - Kill Aura
+- X - X-Ray
+- Z - ESP
+- B - Full Bright
+
 # 📋 Features
 - Kill Aura (hostile/passive mobs, players)
 - Flight
