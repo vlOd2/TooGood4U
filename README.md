@@ -9,7 +9,7 @@ This repository contains NO SOURCE CODE and the client is available in obfuscate
 - Also to reduce headache to users, and prevent people from using the client on regular launchers (which WILL NOT WORK)
 
 # 📋 Features
-- Kill Aura (hostile/pasive mobs, players)
+- Kill Aura (hostile/passive mobs, players)
 - Flight
 - X-Ray (customize the blocks too!)
 - NoClip
